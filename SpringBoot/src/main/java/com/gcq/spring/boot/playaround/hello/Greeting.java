@@ -1,4 +1,4 @@
-package com.gcq.spring.boot.playround.hello;
+package com.gcq.spring.boot.playaround.hello;
 
 public class Greeting {
     private final long id;
