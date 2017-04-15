@@ -1,3 +1,6 @@
 rootProject.name = 'SpringGradle'
 
 include 'SpringBoot'
+include 'ConsumingRest'
+include 'SpringJdbcTemplate'
+
